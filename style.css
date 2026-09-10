@@ -1,3 +1,28 @@
+
+/*Test for rapture background
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+*/
+
+body {
+    font-family: Arial, sans-serif;
+
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/74/887/620/bioshock-rapture-party-globe-2560x1440-video-games-bioshock-hd-art-wallpaper-preview.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    min-height: 100vh;
+
+    margin: 0;
+    padding: 0;
+}
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
